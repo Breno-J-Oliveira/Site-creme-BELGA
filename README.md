@@ -48,6 +48,7 @@ A ideia é treinar a estruturação de páginas estáticas, utilizando **título
 
 ![Creme Belga](img/creme-belga.jpg)
 
+
 ---
 
 ## ✅ Conclusão
